@@ -27,25 +27,30 @@ article{
     padding-left: 5%;
     padding-top: 10px;
     padding-bottom: 10px;
-    border: 2px solid black;
-    border-color: solid black;
-    Margin: 0;
+    border: 2px solid yellow;
+    margin: 0;
 }
 #beef{
     background-color: rgb(212, 40, 40);
-    position: relative;
-    float: right;
+    Offset: left;
     text-align: center;
-    padding: 20px;
-    border: 1px;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid yellow;
+    margin: 0;
 }
 #sushi{
     background-color: rgb(226, 226, 87);
-    position: relative;
-    float: right;
+    Offset: left;
     text-align: center;
-    padding: 20px;
-    border: 1px;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid yellow;
+    margin: 0;
 }
 p{
     text-align: center;
