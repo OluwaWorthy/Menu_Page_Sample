@@ -10,6 +10,17 @@ h1{
    padding-bottom: 5%;
     text-align: center;
 }
+h2{
+    position: relative;
+    Offset: left;
+    text-align: center;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+
+}
 article{
     background-color: grey;
     position: relative;
@@ -20,35 +31,16 @@ article{
 }
 #chicken{
     background-color: rgb(245, 109, 155);
-    position: relative;
-    Offset: left;
-    text-align: center;
-    padding-right: 5%;
-    padding-left: 5%;
-    padding-top: 10px;
-    padding-bottom: 10px;
     border: 2px solid yellow;
     margin: 0;
 }
 #beef{
     background-color: rgb(212, 40, 40);
-    Offset: left;
-    text-align: center;
-    padding-right: 5%;
-    padding-left: 5%;
-    padding-top: 10px;
-    padding-bottom: 10px;
     border: 2px solid yellow;
     margin: 0;
 }
 #sushi{
     background-color: rgb(226, 226, 87);
-    Offset: left;
-    text-align: center;
-    padding-right: 5%;
-    padding-left: 5%;
-    padding-top: 10px;
-    padding-bottom: 10px;
     border: 2px solid yellow;
     margin: 0;
 }
