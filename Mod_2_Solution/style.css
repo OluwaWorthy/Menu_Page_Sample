@@ -21,14 +21,15 @@ article{
 #chicken{
     background-color: rgb(245, 109, 155);
     position: relative;
-    float: right;
+    Offset: left;
     text-align: center;
     padding-right: 5%;
     padding-left: 5%;
     padding-top: 10px;
     padding-bottom: 10px;
-    border: 8px solid black;
+    border: 2px solid black;
     border-color: solid black;
+    Margin: 0;
 }
 #beef{
     background-color: rgb(212, 40, 40);
