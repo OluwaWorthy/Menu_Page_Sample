@@ -28,6 +28,7 @@ article{
     padding: 20px;
     border: 5px solid black;
     border-color: black solid;
+    margin-top: 30px;
 }
 #chicken{
     background-color: rgb(245, 109, 155);
@@ -36,7 +37,6 @@ article{
 #beef{
     background-color: rgb(212, 40, 40);
     margin: 0;
-    margin-top: 30px;
 }
 #sushi{
     background-color: rgb(226, 226, 87);
@@ -45,8 +45,9 @@ article{
 }
 p{
     text-align: center;
-    padding: 20px;
-    border: 1px;
+    padding: 8px;
+    margin: 10px;
+    text-align: justify;
 }
 footer{
     background-color: grey;
