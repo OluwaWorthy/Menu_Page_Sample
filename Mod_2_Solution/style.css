@@ -19,7 +19,7 @@ h2{
     padding-top: 10px;
     padding-bottom: 10px;
     margin: 0;
-
+    border: 2px solid black;
 }
 article{
     background-color: grey;
@@ -31,17 +31,14 @@ article{
 }
 #chicken{
     background-color: rgb(245, 109, 155);
-    border: 2px solid yellow;
     margin: 0;
 }
 #beef{
     background-color: rgb(212, 40, 40);
-    border: 2px solid yellow;
     margin: 0;
 }
 #sushi{
     background-color: rgb(226, 226, 87);
-    border: 2px solid yellow;
     margin: 0;
 }
 p{
