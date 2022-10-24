@@ -10,6 +10,9 @@ h1{
    padding-bottom: 5%;
     text-align: center;
 }
+section{
+   margin: 30px;
+}
 h2{
     position: relative;
     Offset: left;
@@ -19,12 +22,12 @@ h2{
     padding-top: 10px;
     padding-bottom: 10px;
     margin: 0;
-    border: 2px solid black;
+    border: 1px solid black;
 }
 article{
     background-color: grey;
     position: relative;
-    border: 5px solid black;
+    border: 1px solid black;
     border-color: black solid;
     margin: 30px;
 }
@@ -50,11 +53,17 @@ footer{
     background-color: grey;
 }
 @media(min-width: 992px){
-
+ article{
+    width:33.33%;
+}
 }
 @media (min-width:768px) and (max-width:991px) {
-    
+article{
+    width:50%;
+}
 }
 @media(max-width:767px){
-
+article{
+    width:100%;
+}
 }
