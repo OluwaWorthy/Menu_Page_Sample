@@ -51,19 +51,21 @@ p{
 }
 footer{
     background-color: grey;
+    border: 1px solid black;
+    height: 2%;
 }
 @media(min-width: 992px){
  article{
-    width:33.33%;
+    width: 33.33%;
 }
 }
 @media (min-width:768px) and (max-width:991px) {
 article{
-    width:50%;
+    width: 50%;
 }
 }
 @media(max-width:767px){
 article{
-    width:100%;
+    width: 100%;
 }
 }
