@@ -36,10 +36,12 @@ article{
 #beef{
     background-color: rgb(212, 40, 40);
     margin: 0;
+    margin-top: 30px;
 }
 #sushi{
     background-color: rgb(226, 226, 87);
     margin: 0;
+    margin-top: 30px;
 }
 p{
     text-align: center;
