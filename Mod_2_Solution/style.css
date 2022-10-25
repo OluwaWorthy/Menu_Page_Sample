@@ -21,17 +21,16 @@ h2{
     padding-bottom: 3%;
     margin: 0;
     border: 1px solid black;
-    width: 25%;
-    font-size: 1.5em;
+    width: 30%;
+    font-size: 1.2em;
 }
 article{
     background-color: grey;
     position: relative;
     border: 1px solid black;
     border-color: black solid;
-    padding-top: 5%;
+    margin-top: 5%;
     clear: both;
-    padding-right: 2%;
     align-items: space-between;
 }
 #chicken{
@@ -58,7 +57,7 @@ footer{
     border: 1px solid black;
     height: 1%;
     padding: 2%;
-    width: 95%;
+    width: 100%;
 }
 @media(min-width: 992px){
  article{
