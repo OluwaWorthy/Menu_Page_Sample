@@ -4,6 +4,10 @@
 }
 body{
    background-color: rgb(202, 210, 210);
+   width: 100%;
+}
+main{
+   width:100%;
 }
 h1{
    padding-top: 5%;
@@ -62,6 +66,9 @@ footer{
     width: 100%;
 }
 @media(min-width: 992px){
+ html{
+    min-width: 992px;
+}
  section{
     width:100%;
 }
@@ -70,6 +77,10 @@ footer{
 }
 }
 @media (min-width:768px) and (max-width:991px) {
+ html{
+    min-width: 768px;
+    max-width: 991px;
+}
  section{
     width:100%;
 }
@@ -78,6 +89,9 @@ footer{
 }
 }
 @media(max-width:767px){
+ html{
+    max-width: 767px;
+}
  section{
     width:100%;
 }
