@@ -13,6 +13,7 @@ section{
    margin-bottom: 2%;
    padding-right: 5%;
    padding-left: 5%;
+   width:100%;
 }
 h2{
     float:right;
@@ -32,6 +33,7 @@ article{
     margin-top: 5%;
     clear: both;
     align-items: space-between;
+    width: 33.33%;
 }
 #chicken{
     background-color: rgb(245, 109, 155);
