@@ -55,6 +55,7 @@ footer{
     border: 1px solid black;
     height: 2%;
     padding: 5%;
+    width: 100%;
 }
 @media(min-width: 992px){
  article{
